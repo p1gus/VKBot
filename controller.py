@@ -5,3 +5,4 @@ def controller(user_id, message):
     if message == "начать":
         send_message(user_id, "Привет, друг!")
 
+def
